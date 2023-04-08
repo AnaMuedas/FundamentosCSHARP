@@ -14,9 +14,13 @@ namespace FundamentosCSHARP
             Bebida bebida = new Bebida("Coca Cola", 1000);
             bebida.Beber(500);
             Console.WriteLine(bebida.Cantidad);
+
+            Bebida bebida2 = new Bebida("Pilsen",2000);
+            Console.WriteLine(bebida2.Nombre);
+
             Cerveza cerveza = new Cerveza();
             Console.WriteLine(cerveza.Cantidad);
-
+            //Arreglos
             int[] numeros = new int[5] { 1,2,3,4,5 };
             int numero = numeros[0];
             Console.WriteLine(numero);
@@ -29,7 +33,7 @@ namespace FundamentosCSHARP
             {
                 Console.WriteLine(numerito);
             }
-
+            //Listas
             List<int> lista = new List<int>() { 1, 2, 3, 4 };
             lista.Add(5);
             lista.Add(6);

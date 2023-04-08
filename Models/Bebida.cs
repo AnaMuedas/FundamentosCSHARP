@@ -12,6 +12,8 @@ namespace FundamentosCSHARP.Models
 
         public int Cantidad { get; set; } 
 
+        public bool Amarga { get; set; }
+
         public Bebida (string Nombre, int Cantidad)
         {
             this.Nombre = Nombre;
