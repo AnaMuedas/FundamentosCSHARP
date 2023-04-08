@@ -1,0 +1,16 @@
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net5.0\FundamentosCSHARP.exe
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net5.0\FundamentosCSHARP.deps.json
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net5.0\FundamentosCSHARP.runtimeconfig.json
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net5.0\FundamentosCSHARP.runtimeconfig.dev.json
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net5.0\FundamentosCSHARP.dll
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net5.0\ref\FundamentosCSHARP.dll
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\bin\Debug\net5.0\FundamentosCSHARP.pdb
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net5.0\FundamentosCSHARP.csproj.AssemblyReference.cache
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net5.0\FundamentosCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net5.0\FundamentosCSHARP.AssemblyInfoInputs.cache
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net5.0\FundamentosCSHARP.AssemblyInfo.cs
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net5.0\FundamentosCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net5.0\FundamentosCSHARP.dll
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net5.0\ref\FundamentosCSHARP.dll
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net5.0\FundamentosCSHARP.pdb
+C:\Users\51955\source\repos\FundamentosCSHARP\FundamentosCSHARP\obj\Debug\net5.0\FundamentosCSHARP.genruntimeconfig.cache
